@@ -1,0 +1,43 @@
+Setting Up Work Email on a Phone
+
+Work email, calendar and Teams can be used on personal iPhone and Android phones. The phone must
+be enrolled in Company Portal, which protects company data on the device. IT can only remove
+company data and apps from enrolled personal phones, never your personal photos or files.
+
+Requirements
+
+- iPhone with iOS 17 or later, or Android 13 or later.
+- A screen lock (PIN, fingerprint or face recognition).
+- MFA set up with the Authenticator app.
+
+Set up email on iPhone or Android
+
+1. Install Company Portal from the App Store or Google Play.
+2. Open Company Portal and sign in with your company email and password.
+3. Approve the MFA request and follow the steps to enroll the phone.
+4. Install Microsoft Outlook from the App Store or Google Play.
+5. Open Outlook and sign in with your company email.
+
+The built-in Mail app on iPhone and Gmail on Android are not supported for work email.
+
+Error "Your organization requires your device to be managed" or "Access blocked"
+
+The phone is not enrolled or does not meet the requirements.
+
+1. Open Company Portal and check the device status. Follow any steps it shows, for example
+   setting a screen lock or updating the operating system.
+2. Tap Check status to refresh it.
+3. Wait 15 minutes, then try signing in to Outlook again.
+
+Email stopped syncing on my phone
+
+1. Check that the phone is online.
+2. If you recently changed your password, sign out of Outlook on the phone and sign in again.
+3. Open Company Portal and check that the device is still compliant.
+4. Remove the account from Outlook and add it again.
+
+Lost or stolen phone
+
+1. Contact the Service Desk immediately so they can remove company data from the phone.
+2. Change your password at password.example.com.
+3. Remove the old phone from your MFA methods at mfa.example.com.

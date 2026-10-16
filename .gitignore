@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tool caches and test output
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Secrets: keep .env.example, ignore every real .env
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Runtime data: escalated tickets (keep the folder via .gitkeep)
+data/tickets/*.jsonl
+
+# Logs
+*.log
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code personal settings (shared .claude/settings.json stays tracked)
+.claude/settings.local.json
